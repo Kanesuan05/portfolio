@@ -9,7 +9,7 @@ function App() {
     <>
       {/* Navbar */}
       <nav className="navbar">
-        <div className="logo">JD PORT</div>
+        <div className="logo">KANESUAN</div>
         <ul className="nav-links">
           <li><a href="#skills">Skills</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
